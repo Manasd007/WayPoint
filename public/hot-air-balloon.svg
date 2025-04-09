@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120" height="160" viewBox="0 0 120 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Balloon -->
+  <path d="M60 10C32.386 10 10 32.386 10 60C10 87.614 32.386 110 60 110C87.614 110 110 87.614 110 60C110 32.386 87.614 10 60 10Z" fill="url(#gradient)" />
+  
+  <!-- Basket -->
+  <rect x="50" y="110" width="20" height="15" fill="#8B4513" />
+  
+  <!-- Ropes -->
+  <path d="M40 80L50 110M80 80L70 110" stroke="#8B4513" stroke-width="2" />
+  
+  <!-- Gradient definition -->
+  <defs>
+    <linearGradient id="gradient" x1="60" y1="10" x2="60" y2="110" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3B82F6" />
+      <stop offset="1" stop-color="#4F46E5" />
+    </linearGradient>
+  </defs>
+</svg> 
