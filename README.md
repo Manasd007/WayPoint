@@ -1,3 +1,4 @@
+ HEAD
 <p><a target="_blank" href="https://app.eraser.io/workspace/ITHfX2CmBRfVZimKKniY" id="edit-in-eraser-github-link"><img alt="Edit in Eraser" src="https://firebasestorage.googleapis.com/v0/b/second-petal-295822.appspot.com/o/images%2Fgithub%2FOpen%20in%20Eraser.svg?alt=media&amp;token=968381c8-a7e7-472a-8ed6-4a6626da5501"></a></p>
 
 # Waypoint - Your Ultimate Travel Planning Companion
@@ -64,3 +65,6 @@ Contributions are welcome! If you'd like to contribute to Waypoint, please follo
 5. Submit a pull request to the main branch of the original repository.
 
 <!--- Eraser file: https://app.eraser.io/workspace/ITHfX2CmBRfVZimKKniY --->
+=======
+# WayPoint
+e5d66695b35302a8a200cf4ceee77ac8e5319bd4
